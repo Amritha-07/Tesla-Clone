@@ -51,10 +51,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 - HTML
 - CSS
 
-## Demo
-
-![image](https://github.com/Amritha-07/Tesla-Clone/assets/74042644/bd2434be-f3b6-46ba-9f77-5eb515b61404)
-
 ## Deployment
 
 Here's a live deployment - https://tesla-clone-ic41.onrender.com
+
+![image](https://github.com/Amritha-07/Tesla-Clone/assets/74042644/bd2434be-f3b6-46ba-9f77-5eb515b61404)
