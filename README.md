@@ -31,6 +31,14 @@ To download the code and assets for this project, you can clone this GitHub repo
 
 ```git clone https://github.com/Amritha-07/Tesla-Clone.git```
 
+To build Dependencies
+
+```npm install```
+
+or 
+
+```npm run build```
+
 To start the application
 
 ```npm start```
