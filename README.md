@@ -17,7 +17,7 @@ Here's a live deployment - https://tesla-clone-ic41.onrender.com
 
 ## Installation and Usage
 
-To install and run this project, you need to have a web browser (such as Chrome or Firefox) that supports HTML, CSS, and JavaScript.
+To install and run this project, you need to have Nodejs installed on your computer.
 
 To download the code and assets for this project, you can clone this GitHub repository using the following command:
 
