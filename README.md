@@ -10,6 +10,14 @@ Here's a live deployment - https://tesla-clone-ic41.onrender.com
     <img src='img/snap_1.png' alt='image' width='90%' name='snap_1'/>
 </center>
 
+## Tech-Stack
+
+- React
+- HTML
+- CSS
+- Redux
+- Styled Components
+
 ## Features
 
 - The application mimics the layout and style of the Tesla website, with a logo, a navigation bar and a footer.
@@ -29,4 +37,4 @@ To start the application
 
 ## References
 
-- [🔴 Building the Tesla Clone with ReactJS (Redux + Styled Components)](https://www.youtube.com/watch?v=lUeS9Wsj6dk)
+- [🔴 Building the Tesla Clone with ReactJS (Redux + Styled Components)](https://www.youtube.com/watch?v=lUeS9Wsj6dk) from clever programmer
